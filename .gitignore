@@ -1,5 +1,6 @@
-node_modules
-.angular
+node_modules/
+.github/
+.angular/
 .env
-/dist
+dist/
 **/*.js
