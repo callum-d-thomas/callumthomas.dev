@@ -1,27 +1,11 @@
-# CloudResumeChallenge
+# callumthomas.dev - under construction
+This repo houses the source code for [callumthomas.dev](https://callumthomas.dev).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
+_Note: the website is currently a work-in-progress and as such will only display an "Under Construction" landing page until the first version is ready._
 
-## Development server
+## Cloud Resume Challenge
+This project is my attempt at the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) using Azure as the chosen cloud provider. It is a project that I intend to use to put into practice those skills picked up from the [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) certification I have achieved through Microsoft and to help me prepare to sit the exam for the [AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification) certification.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Project Technology
+- This project was generated with [Angular](https://angular.dev/) version 18.2.10.
+- This project utilises [Bootstrap](https://getbootstrap.com/) version 5.3.3 for user interface styling.
