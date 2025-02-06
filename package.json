@@ -1,13 +1,13 @@
 {
-  "name": "cloud-resume-challenge",
-  "version": "0.0.0",
+  "name": "callumthomas.dev",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:CloudResumeChallenge": "node dist/cloud-resume-challenge/server/server.mjs"
+    "serve:ssr:callumthomas.dev": "node dist/callumthomas.dev/server/server.mjs"
   },
   "private": true,
   "dependencies": {
